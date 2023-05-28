@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801638026198",
+    "project_id": "curso-moviles-7999e",
+    "storage_bucket": "curso-moviles-7999e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801638026198:android:c56ab6e07a21763d35b277",
+        "android_client_info": {
+          "package_name": "cr.ac.una.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF988jWgwP6X4L05SK_nxIHOwD0AjGPXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
